@@ -3,6 +3,11 @@
 <h1>
 Progress Button
 </h1>
+<!-- Subtitle/Description -->
+<h3>Botão com animação de progresso ao clique longo</h4>
+<p>
+  <!-- Subtitle/Description -->
+<h4>Long click progress animation button</h4>
 <p>
 <!-- Image Shields -->
 <img  alt="Languages Count"  src="https://img.shields.io/github/languages/count/DavidCastroUFC/ProgressButton">
