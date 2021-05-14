@@ -11,7 +11,7 @@ Progress Button
 </a>
 </p>
   
-<img  width="100%"  src="https://i.imgur.com/VkgmScb.gif">
+<img  width="300px" heigth="auto"  src="https://i.imgur.com/VkgmScb.gif">
 </div>
 
 ---
